@@ -1,3 +1,4 @@
+//Compute the LCM of two numbers
 #include <stdio.h>
 
 int main() {
