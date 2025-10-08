@@ -1,14 +1,14 @@
 #include <stdio.h>
 int main() {
     int num, N;
-
+int i;
     printf("Enter the number: ");
     scanf("%d", &num);
 
     printf("Enter how many multiples to print: ");
     scanf("%d", &N);
 
-    for (int i = 1; i <= N; i++) {
+    for (i = 1; i <= N; i++) {
         printf("%d ", num * i);
     }
 
