@@ -1,3 +1,4 @@
+// Find the smallest element in a 1D array
 #include <stdio.h>
 
 int main() {
