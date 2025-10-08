@@ -11,7 +11,6 @@ int main()
         if (arr[i] == target) {
             printf("Element %d found at index %d.\n", target, i);
             found = 1;
-            break;
         }
     }
 
