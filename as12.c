@@ -1,3 +1,4 @@
+//Multiply two matrices
 #include <stdio.h>
 int main() {
     int A[2][3] = {
