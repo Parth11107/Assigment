@@ -1,3 +1,4 @@
+//Compare lengths of two strings
 #include <stdio.h>
 #include <string.h>
 int main() 
