@@ -1,3 +1,4 @@
+//Print first N multiples of a number
 #include <stdio.h>
 int main() {
     int num, N;
